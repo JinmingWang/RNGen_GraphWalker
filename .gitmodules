@@ -1,0 +1,3 @@
+[submodule "JimmyTorch"]
+	path = JimmyTorch
+	url = https://github.com/JinmingWang/JimmyTorch.git
